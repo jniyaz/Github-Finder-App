@@ -40,7 +40,7 @@ $(document).ready(function(){
 			});
 
 			$("#profile").html(`
-				<h3>Profile</h3>
+				<h2>Profile:</h2>
 				<div class="panel panel-default">
 				  <div class="panel-heading">
 				    <h3 class="panel-title">${user.name}</h3>
